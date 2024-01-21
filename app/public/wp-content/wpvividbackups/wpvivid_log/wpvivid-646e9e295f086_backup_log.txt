@@ -1,0 +1,85 @@
+Log created: 2023-05-24 23:30:49
+Type: backup
+[2023-05-24 23:30:49][notice]Start backing up.
+[2023-05-24 23:30:49][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:8.1.9 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:5.06 MB memory_get_peak_usage:5.33 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-05-24 23:30:49][notice]Prepare to backup backup_db files.
+[2023-05-24 23:30:49][notice]Start exporting database.
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_links
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_term_relationships
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_commentmeta
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_term_taxonomy
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_termmeta
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_terms
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_usermeta
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_users
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_comments
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_postmeta
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_posts
+[2023-05-24 23:30:49][notice]Preparing to dump table wp_options
+[2023-05-24 23:30:49][notice]Exporting database finished.
+[2023-05-24 23:30:49][notice]Start compressing database
+[2023-05-24 23:30:49][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_db.sql
+[2023-05-24 23:30:49][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_db.part001.zip, filesize: 320.85 KB
+[2023-05-24 23:30:49][notice]Compressing database completed
+[2023-05-24 23:30:49][notice]Backing up backup_db completed.
+[2023-05-24 23:30:49][notice]Prepare to backup backup_themes files.
+[2023-05-24 23:30:49][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_themes.part001.zip index:500
+[2023-05-24 23:30:50][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_themes.part001.zip success. index:500 file size:4.23 MB
+[2023-05-24 23:30:50][notice]Backing up backup_themes completed.
+[2023-05-24 23:30:50][notice]Prepare to backup backup_plugin files.
+[2023-05-24 23:30:52][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:500
+[2023-05-24 23:30:53][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:500 file size:14.24 MB
+[2023-05-24 23:30:53][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:1000
+[2023-05-24 23:30:55][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:1000 file size:16.83 MB
+[2023-05-24 23:30:55][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:1500
+[2023-05-24 23:30:57][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:1500 file size:18.27 MB
+[2023-05-24 23:30:57][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:2000
+[2023-05-24 23:30:59][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:2000 file size:19.28 MB
+[2023-05-24 23:30:59][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:2500
+[2023-05-24 23:31:02][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:2500 file size:24.15 MB
+[2023-05-24 23:31:02][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip index:3000
+[2023-05-24 23:31:03][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.part001.zip success. index:3000 file size:24.45 MB
+[2023-05-24 23:31:03][notice]Backing up backup_plugin completed.
+[2023-05-24 23:31:03][notice]Prepare to backup backup_uploads files.
+[2023-05-24 23:31:03][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_uploads.part001.zip index:500
+[2023-05-24 23:31:04][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_uploads.part001.zip success. index:500 file size:23.64 MB
+[2023-05-24 23:31:04][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_uploads.part001.zip index:1000
+[2023-05-24 23:31:06][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_uploads.part001.zip success. index:1000 file size:65.33 MB
+[2023-05-24 23:31:06][notice]Backing up backup_uploads completed.
+[2023-05-24 23:31:06][notice]Prepare to backup backup_content files.
+[2023-05-24 23:31:07][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip index:500
+[2023-05-24 23:31:07][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip success. index:500 file size:8.42 MB
+[2023-05-24 23:31:07][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip index:1000
+[2023-05-24 23:31:08][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip success. index:1000 file size:15.82 MB
+[2023-05-24 23:31:08][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip index:1500
+[2023-05-24 23:31:08][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.part001.zip success. index:1500 file size:15.88 MB
+[2023-05-24 23:31:08][notice]Backing up backup_content completed.
+[2023-05-24 23:31:08][notice]Prepare to backup backup_core files.
+[2023-05-24 23:31:09][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:500
+[2023-05-24 23:31:10][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:500 file size:2.23 MB
+[2023-05-24 23:31:10][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:1000
+[2023-05-24 23:31:10][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:1000 file size:2.74 MB
+[2023-05-24 23:31:10][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:1500
+[2023-05-24 23:31:11][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:1500 file size:4.15 MB
+[2023-05-24 23:31:11][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:2000
+[2023-05-24 23:31:15][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:2000 file size:9.58 MB
+[2023-05-24 23:31:15][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:2500
+[2023-05-24 23:31:18][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:2500 file size:12.46 MB
+[2023-05-24 23:31:18][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip index:3000
+[2023-05-24 23:31:18][notice]Compressing zip file:flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.part001.zip success. index:3000 file size:12.70 MB
+[2023-05-24 23:31:19][notice]Backing up backup_core completed.
+[2023-05-24 23:31:19][notice]Prepare to backup backup_merge files.
+[2023-05-24 23:31:19][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_db.zip
+[2023-05-24 23:31:19][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 320.52 KB
+[2023-05-24 23:31:19][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_themes.zip
+[2023-05-24 23:31:19][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 4.52 MB
+[2023-05-24 23:31:19][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_plugin.zip
+[2023-05-24 23:31:20][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 28.30 MB
+[2023-05-24 23:31:20][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_uploads.zip
+[2023-05-24 23:31:22][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 93.41 MB
+[2023-05-24 23:31:22][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_content.zip
+[2023-05-24 23:31:22][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 109.15 MB
+[2023-05-24 23:31:22][notice]Prepare to zip file. file: flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_core.zip
+[2023-05-24 23:31:23][notice]Adding zip files completed.flhuephotocom.local_wpvivid-646e9e295f086_2023-05-24-23-30_backup_all.part001.zip, filesize: 121.48 MB
+[2023-05-24 23:31:23][notice]Backing up backup_merge completed.
+[2023-05-24 23:31:24][notice]Backup completed.
